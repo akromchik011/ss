@@ -1,0 +1,19 @@
+.box{
+    color: red;
+    border: 5px solid rgb(209, 0, 0);
+    background-color: black;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.lyuboy{
+    text-align: center;
+    border-right: 5px solid red;
+    border-left: 2px solid red;
+}
+b{
+    color: red;
+    border: 1px solid blue;
+    background-color: black;
+    border-radius: 5px;
+}
